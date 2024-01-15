@@ -1,4 +1,4 @@
-# gatonauta
+# Gatonauta
 
 Projeto ainda em desenvolvimento, está sendo criado em mobile first.
 A intenção do projeto é juntar alguns cursos/links da área de front-end e disponibilizar como uma plataforma de cursos gratuitos.
