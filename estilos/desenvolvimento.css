@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+}
+
+body{
+    background-color: #191C25;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+}
+
+.container{
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    line-height: 60px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+
+h1{
+    color: rgb(204, 5, 5);
+    font-weight: bolder;
+    
+}
+
+h2{
+    color: rgb(0, 0, 0);
+}
+
+#voltar{
+    margin-top: 50px;
+    height: 60px;
+    width: 220px;
+    background-color: #6859C9;
+    color: white;
+    letter-spacing: 5px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.834);
+    border: none;
+    font-size: 15px;
+    cursor: pointer;
+}
